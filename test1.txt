@@ -1,0 +1,10 @@
+ Volume in drive C is Abhijit
+ Volume Serial Number is CC3F-1E2D
+
+ Directory of C:\Users\Diptee\Desktop\MyGitProject
+
+07/12/2017  02:57 PM    <DIR>          .
+07/12/2017  02:57 PM    <DIR>          ..
+07/12/2017  02:57 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  819,584,192,512 bytes free
